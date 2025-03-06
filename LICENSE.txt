@@ -1,0 +1,41 @@
+# 知识共享 署名-非商业 4.0 国际 (CC BY-NC 4.0) 许可证  
+# Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License  
+
+**版权所有 (c) 2025 Ericdu1**  
+**Copyright (c) 2025 Ericdu1**  
+
+本作品采用 **知识共享 署名-非商业 4.0 国际 (CC BY-NC 4.0) 许可证** 进行许可。  
+This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License**.  
+
+---
+
+## 📌 你可以自由地 | You are free to:
+- ✅ **共享 (Share)**：复制、分发和展示本软件的全部或部分内容。  
+  ✅ **Share**: Copy, distribute, and display the software in whole or in part.  
+- ✅ **修改 (Adapt)**：你可以自由修改、重混或基于本软件创作衍生作品。  
+  ✅ **Adapt**: Remix, transform, and build upon the software.  
+
+---
+
+## ⚠️ 但必须遵守以下条件 | Under the following terms:
+- **📛 署名 (Attribution)**：你必须保留原作者的署名，并提供指向本许可证的链接。  
+  **Attribution**: You must give appropriate credit and provide a link to the license.  
+- **🚫 非商业 (NonCommercial)**：**不得将本软件用于商业用途**，包括但不限于**出售、商业软件集成**等。  
+  **NonCommercial**: You may not use the software for commercial purposes, including but not limited to selling, integrating into commercial software, etc.  
+- **🔄 相同许可 (ShareAlike)**：如果你修改或重新发布本软件，**必须使用相同的许可证**（CC BY-NC 4.0）。  
+  **ShareAlike**: If you remix, transform, or build upon the software, you must distribute your contributions under the same license (CC BY-NC 4.0).  
+
+---
+
+## 📜 免责申明 | Disclaimer:
+本软件按 **“原样”** 提供，**不提供任何明示或暗示的保证**，包括但不限于 **适销性、特定用途适用性** 等。  
+This software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to **merchantability or fitness for a particular purpose**.  
+
+作者 **不对因使用本软件导致的任何损失或损害承担责任**。  
+The author **shall not be liable for any claims, damages, or other liabilities arising from the use of the software**.  
+
+---
+
+📖 **查看完整许可证文本 (Full License Text)**:  
+[中文 (Chinese)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh) | [English](https://creativecommons.org/licenses/by-nc/4.0/deed.en)  
+
