@@ -2,25 +2,30 @@
 
 ## 📌 项目介绍 | Project Introduction
 
-**Advanced Math Calculator** 是一个由 **初学者** 制作的多功能数学计算器，支持 **中英文双语**。
-本项目旨在帮助新手学习 **Python** 和 **数学计算**，并鼓励大家一起贡献代码，共同学习！🚀
+**Advanced Math Calculator** 是一个多功能数学计算平台，目标是 **朝着 Symbolab 作为目标的数学计算工具**，支持 **中英文双语**。
 
-Advanced Math Calculator is a multi-functional **math calculator** created by a beginner.
-This project supports **English and Chinese** and is designed to help newcomers learn **Python** and **mathematical computation**.
-We welcome contributions from all learners! 🎯
+本项目旨在提供 **直观、强大、可扩展** 的数学计算功能，涵盖 **代数、微积分、矩阵计算**，未来还将引入 **高级数学求解**。
+
+Advanced Math Calculator is a multi-functional **math calculation platform**, aiming **to develop towards Symbolab-level capabilities** and supporting **both English and Chinese**.
+
+This project aims to provide **intuitive, powerful, and expandable** math computation features, covering **Algebra, Calculus, and Matrix operations**, with future plans to introduce **advanced mathematical solving features**.
 
 ---
 
 ## 🌟 功能特点 | Features
 ✅ **多种数学计算** (代数、微积分、矩阵运算、基础计算)  
-✅ **GUI 界面支持** (矩阵输入)  
+✅ **模块化 GUI 设计** (每个功能有单独的 GUI 模块)  
+✅ **支持矩阵输入及计算**  
 ✅ **中英文语言切换**  
-✅ **模块化代码设计，方便扩展**  
+✅ **代码结构清晰，易于扩展**  
+✅ **未来计划支持 AI 解题助手**  
 
 ✅ **Various Math Calculations** (Algebra, Calculus, Matrix Operations, Basic Math)  
-✅ **GUI Support** (Matrix Input)  
+✅ **Modular GUI Design** (Each feature has its own GUI module)  
+✅ **Supports Matrix Input & Calculation**  
 ✅ **Bilingual Support (Chinese & English)**  
-✅ **Modular Code Design for Easy Expansion**  
+✅ **Well-structured Code for Easy Expansion**  
+✅ **Future Plan: AI-powered Math Solver**  
 
 ---
 
@@ -44,16 +49,47 @@ python main.py
 
 ---
 
-## 🔧 主要模块 | Main Modules
-| 📂 模块 | 📝 描述 | 📌 功能 |
-|--------|--------|--------|
-| `main.py` | 主程序 | 运行计算器 |
-| `modules/algebra.py` | 代数计算 | 简化代数表达式 |
-| `modules/calculus.py` | 微积分计算 | 计算导数、积分 |
-| `modules/matrix.py` | 矩阵运算 | 加法、乘法、转置、行列式、逆矩阵 |
-| `modules/matrix_gui.py` | 矩阵输入界面 | 提供 GUI 输入 |
-| `modules/language.py` | 语言模块 | 中英文切换 |
-| `modules/utils.py` | 通用工具 | 表达式求值等 |
+## 🔄 更新日志 | Update Log
+### 📅 2025-03-08
+- ✅ **重构 GUI 代码**，每个计算模块单独一个 GUI
+- ✅ **支持 代数(Algebra)、微积分(Calculus)、矩阵(Matrix) 计算**
+- ✅ **新增 README 说明，并添加未来优化方向**
+- ⚠️ **矩阵计算仍需优化**（加法/乘法输入格式）
+- ⚠️ **微积分计算存在 Bug** (`original_function` 未正确显示)
+
+- ✅ **Refactored GUI code**, making each math function independent
+- ✅ **Added Algebra, Calculus, and Matrix calculation support**
+- ✅ **Updated README with new goals and future directions**
+- ⚠️ **Matrix operations need improvement** (addition/multiplication input format)
+- ⚠️ **Calculus calculation has a bug** (`original_function` not displaying correctly)
+
+---
+
+## 🔄 当前进展 | Current Progress
+- ✅ 代码已模块化，每个数学计算功能都有单独的 GUI
+- ✅ 代数计算可用，包括 **简化、因式分解、展开**
+- ⚠️ **矩阵运算仍需优化**，加法/乘法的输入格式需调整
+- ⚠️ **微积分计算存在 Bug**，`original_function` 未正确显示
+
+- ✅ The code is now modular, with separate GUIs for each function
+- ✅ Algebra calculations work (Simplify, Factorize, Expand)
+- ⚠️ **Matrix operations need optimization**, especially input format
+- ⚠️ **Calculus GUI has a bug**, `original_function` is not displaying correctly
+
+---
+
+## 🚀 未来优化方向 | Future Improvements
+- 🔹 **改进矩阵运算**，优化输入方式，支持更直观的加法/乘法输入
+- 🔹 **修复微积分 GUI**，确保原始函数、导数、积分正确显示
+- 🔹 **优化 UI 体验**，调整界面布局，使交互更直观
+- 🔹 **增加更多数学功能**，如复数运算、概率计算等
+- 🔹 **探索 AI 解题助手**，提升解题能力
+
+- 🔹 **Enhance Matrix Operations**, optimizing input format for better usability
+- 🔹 **Fix Calculus GUI**, ensuring correct display of original function, derivative, and integral
+- 🔹 **Improve UI Experience**, making the interface more user-friendly
+- 🔹 **Expand mathematical functionalities**, including complex numbers, probability calculations, etc.
+- 🔹 **Develop AI Math Solver**, making problem-solving more intelligent
 
 ---
 
@@ -72,7 +108,7 @@ We welcome contributions! You can:
 
 ## 📜 许可证 | License
 本项目采用 **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)** 许可，仅限 **非商业用途**。
-The project is licensed under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en)** and is for **non-commercial use only**.
+The project is licensed under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en)** and is for **non-commercial use only**。
 
 ---
 

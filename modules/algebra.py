@@ -1,9 +1,10 @@
 import sympy as sp
 
-def simplify_expression(expression):
-    """ 化简代数表达式 """
-    try:
-        expr = sp.sympify(expression)
-        return sp.simplify(expr)
-    except Exception as e:
-        return f"错误: {e}"
+def simplify_expression(expr):
+    return sp.simplify(expr)
+
+def factor_expression(expr):
+    return sp.factor(expr)
+
+def expand_expression(expr):
+    return sp.expand(expr)
